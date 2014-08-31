@@ -1,0 +1,4 @@
+LIBRARY	"MSI_VerifyUT2K4Dir"
+EXPORTS
+    VerifyUT2K4Dir
+    VerifyUT2K4Version
